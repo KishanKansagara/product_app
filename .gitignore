@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+logs/
+*.log
+npm-debug.log*
+
+uploads/*
+!uploads/.gitkeep
